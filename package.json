@@ -1,0 +1,8 @@
+{
+  "name": "ory",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/ory/sdk-js.git",
+  "author": "arekkas <aeneas@ory.am>",
+  "license": "Apache 2.0"
+}
